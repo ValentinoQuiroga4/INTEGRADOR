@@ -1,0 +1,28 @@
+# TPI Programación 1 - Gestión de Datos de Países (UTN)
+
+Este proyecto es el Trabajo Práctico Integrador (TPI) para la materia Programación 1 de la Tecnicatura Universitaria en Programación de la UTN - Sede Rivadavia.
+
+# Descripción del Programa
+
+El programa es una aplicación de consola desarrollada en Python que permite gestionar una base de datos de países cargada desde un archivo CSV. La aplicación ofrece un menú interactivo para realizar consultas, aplicar filtros, ordenar los datos y ver estadísticas clave del dataset.
+
+El objetivo es aplicar los conceptos fundamentales de la materia, incluyendo listas, diccionarios, funciones, modularización y manejo de archivos.
+
+# Instrucciones de Uso.
+
+1.  **Requisitos:**
+    * Tener instalado Python 3.x.
+
+2.  **Instalación:**
+    * Clonar este repositorio o descargar los archivos.
+    * Asegurarse de tener el archivo "Integrador.py" y "paises.csv" en la misma carpeta.
+
+3.  **Ejecución:**
+    * Abrir una terminal o símbolo del sistema.
+    * Navegar hasta la carpeta donde se encuentran los archivos.
+    * Ejemplo: cd Desktop Integrador - Programacion 1
+    * Ejecutar el script con el siguiente comando:
+        ```bash
+        python integrador.py
+        ```
+    * Seguir las instrucciones del menú en pantalla.
